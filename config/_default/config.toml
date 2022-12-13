@@ -4,7 +4,7 @@
 
 baseURL = "https://www.lucamondini.it/"
 theme = "congo"
-# defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 languageCode = "it"
 
 enableRobotsTXT = true

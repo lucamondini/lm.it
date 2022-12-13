@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Chi sono"
+  pageRef = "chi-sono"
   weight = 10
 
 [[main]]
-  name = "Categorie"
-  pageRef = "categories"
+  name = "Blog"
+  pageRef = "blog"
   weight = 20
 
 [[main]]
