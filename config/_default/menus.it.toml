@@ -16,15 +16,24 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "Parole"
   pageRef = "blog"
   weight = 20
 
 [[main]]
-  name = "Tag"
-  pageRef = "tags"
+  name = "Immagini"
+  pageRef = "gallerie"
   weight = 30
 
+[[main]]
+  name = "Tag"
+  pageRef = "tags"
+  weight = 40
+
+[[main]]
+  name = "Etc."
+  pageRef = "etc"
+  weight = 50
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
