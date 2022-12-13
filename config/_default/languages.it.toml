@@ -1,24 +1,24 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
+languageCode = "it"
+languageName = "Italian"
+displayName = "IT"
+isoCode = "it"
 weight = 1
 rtl = false
 
-title = "Congo"
+title = "Luca Mondini"
 # logo = "img/logo.jpg"
-# description = "My awesome website"
+description = "Pensieri sparsi di un geek"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  # name = "Your name here"
+name = "Luca"
   # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+headline = "I'm only human"
+bio = "A little bit about you"
+links = [
+  { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -34,12 +34,12 @@ dateFormat = "2 January 2006"
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
+  { instagram = "https://instagram.com/lucamondini" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
-  #   { mastodon = "https://mastodon.instance/@username" },
+  { linkedin = "https://linkedin.com/in/lucamondini" },
+  { mastodon = "https://mastodon.uno/@lucamondini" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -56,7 +56,7 @@ dateFormat = "2 January 2006"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
+  { twitter = "https://twitter.com/lucamondini" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+]
