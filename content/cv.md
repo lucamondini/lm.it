@@ -19,10 +19,10 @@ I'm always passionate about challenging my knowledge and learning new stuff.
 
 ## 💼 Last experiences
 
-### E80 Group S.p.A. – Reggio Emilia
+### E80 Group S.p.A.
 
 DIGITAL TRANSFORMATION SPECIALIST  
-(April 2022 – Present)
+(Reggio Emilia, April 2022 – Present)
 
 E80 Group, born from the merge of Elettric80 and Bema, is one of the most innovative companies in the Industrial Automation market.
 
@@ -40,10 +40,10 @@ My major responsibilities were:
 - Creating and maintaining comprehensive project documentation, including the project charter and project plan
 - Supporting PMO in development, tracking and reporting of performance metrics for the company, interpreting information and proposing action to team and management
 
-### Bema s.r.l. – Reggio Emilia
+### Bema s.r.l.
 
 PROJECT MANAGER / KEY ACCOUNT MANAGER  
-(April 2018 – June 2021)
+(Reggio Emilia, April 2018 – June 2021)
 
 BEMA & Elettric80 are among the most innovative companies in the Industrial Automation market. My responsibilities in BEMA were:
 
@@ -59,10 +59,10 @@ Account Management
 - Acting as Single Point of Contact between clients and internal teams
 - Creating genuine and trustworthy relationships at any level
 
-### Selecta Digital Services S.p.A. – Reggio Emilia / Milan
+### Selecta Digital Services S.p.A.
 
 ACCOUNT & BUSINESS DEVELOPMENT MANAGER  
-(Sep 2015 – March 2018)
+(Reggio Emilia / Milan, Sep 2015 – March 2018)
 
 Selecta Digital Services is a leading company in the design and development of complex customer interaction solutions. I helped the Company to manage one of the largest groups in the Italian media market:
 - Setting strategy and business goals
@@ -70,10 +70,10 @@ Selecta Digital Services is a leading company in the design and development of c
 - Creating genuine and trustworthy relationships at any level
 - Coordinating a multifunctional team of six to meet client needs and achieve the desired business outcomes
 
-### Selecta S.p.A. - Reggio Emilia
+### Selecta S.p.A.
 
 IT PROJECT LEADER / TECHNICAL ACCOUNT MANAGER  
-(Jan 2009 - Aug 2015)
+(Reggio Emilia, Jan 2009 - Aug 2015)
 
 Selecta S.p.A. is the largest private company in the Italian mass printing and document management market. My responsibilities in Selecta were:
 
@@ -98,9 +98,9 @@ MACHINE LEARNING SPECIALIZATION
 
 Three courses path learning concepts such as supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning (clustering, anomaly detection), recommender systems, and reinforcement learning.
 
-### Talent Garden Innovation School - Milan
+### Talent Garden Innovation School
 MASTER IN APPLIED DIGITAL TRANSFORMATION  
-(2022)
+(Milan, 2022)
 
 Three months learning path, discovering the last Digital Transformation tools and techniques in a vibrant community of talented and passionate professionals.
 
@@ -110,20 +110,20 @@ PROJECT MANAGEMENT PROFESSIONAL (PMP)®
 
 Credential ID: 3203345.
 
-### Il Sole 24 Ore Business School - Milan
+### Il Sole 24 Ore Business School
 BUSINESS ADMINISTRATION & STRATEGIC MANAGEMENT  
-(2014 - 2016)
+(Milan, 2014 - 2016)
 
 Final project work: an innovative employment agency in the construction and infrastructure sector that became an actual company on 2018 (GeoJob).
 
-### Università degli Studi di Milano - Milan
+### Università degli Studi di Milano
 MSC, COMPUTER SCIENCE DEGREE  
-(1998 - 2008)
+(Milan, 1998 - 2008)
 
 Thesis: new metrics for the blogosphere. Written between 2007 and 2008 at Cefriel (ICT Center of Excellence For Research, Innovation, Education and industrial Labs partnership) - Milan.
 
 
-## ♥️ Volunteering
+## ❤️ Volunteering
 
 ### CoderDojo Reggio Emilia
 MENTOR  

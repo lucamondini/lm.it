@@ -6,7 +6,7 @@ summary: "Luca Mondini, nerd, lettore onnivoro, viaggiatore per quanto possibile
 ---
 Sono nato a Milano quarantaquattro anni fa.
 
-Oggi vivo in provincia di Reggio Emilia dove lavoro come Digital Transformation Specialist in [E80 Group](https://www.elettric80.com/it/), occupandomi di knowledge management e intelligenza artificiale applicata ai processi. [Qui](../cv/) potete trovare il mio curriculum (in inglese).
+Oggi vivo in provincia di Reggio Emilia dove lavoro come Digital Transformation Specialist in [E80 Group](https://www.elettric80.com/it/), occupandomi di knowledge management e intelligenza artificiale applicata ai processi. Il mio curriculum è diponibile [qui](../cv/) (in inglese).
 
 Quando non lavoro, esco di casa con la mia macchina fotografica alla ricerca di qualcosa da raccontare.
 
