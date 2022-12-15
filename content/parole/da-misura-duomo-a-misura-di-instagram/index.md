@@ -9,8 +9,6 @@ tags:
   - "playground"
 ---
 
-![Color Factory - NYC](images/ColorFactory-1024x767.png)
-
 Instagram, con oltre [un miliardo](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/) di utenti attivi nel mondo, sembra avere [impatti sempre più rilevanti](https://www.buzzfeed.com/elfyscott/heres-how-instagram-affects-our-psychology-according-to) su noi stessi, sul rapporto con il nostro corpo e sul modo di percepire lo spazio che ci circonda.
 
 Proprio su quest'ultimo aspetto si concentra [Inside the most Instagrammable place on Earth](https://www.fastcompany.com/90281989/inside-the-most-instagrammable-place-on-earth), un articolo di FastCompany che parte da queste premesse per parlare della progettazione dei cosiddetti _Instagram playgrounds_, luoghi disegnati per essere fotografati e condivisi sul popolare social network.
