@@ -17,12 +17,12 @@
 
 [[main]]
   name = "Parole"
-  pageRef = "blog"
+  pageRef = "parole"
   weight = 20
 
 [[main]]
   name = "Immagini"
-  pageRef = "gallerie"
+  pageRef = "immagini"
   weight = 30
 
 [[main]]
