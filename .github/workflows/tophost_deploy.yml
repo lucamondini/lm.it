@@ -2,7 +2,7 @@ name: CI -> Deploy to My website
 on:
   push:
     branches: [ master, Development ]
-    paths: ./public
+    paths: public/**
 jobs:
   build:
     runs-on: ubuntu-latest
