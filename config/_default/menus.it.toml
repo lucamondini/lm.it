@@ -36,7 +36,7 @@
   weight = 50
 
 [[main]]
-  name = "Etc."
+  name = "Etc"
   pageRef = "etc"
   weight = 60
 
