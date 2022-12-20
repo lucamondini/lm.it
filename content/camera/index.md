@@ -16,3 +16,5 @@ Nel mio zaino, trovano posto anche una batteria di scorta, qualche scheda SD, un
 ![](images/Trip35.jpg "Olympus Trip 35")
 
 Quando proprio voglio esagerare, esco con una bellissima Olympus Trip 35 caricata con un rullino di Kodal Tri X 400.
+
+Ah, e comunque è [tutta colpa](../parole/e-tutta-colpa-tua/) di mio papà.
