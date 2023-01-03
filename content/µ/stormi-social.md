@@ -4,7 +4,6 @@ date: "2022-11-14"
 description: "Ennesimo thread di spunti sul tema evoluzione delle reti sociali."
 summary: "Ennesimo thread di spunti sul tema evoluzione delle reti sociali."
 tags: 
-  - "onmastodon"
   - "social media"
   - "mastodon"
   - "twitter"

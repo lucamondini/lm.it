@@ -4,7 +4,6 @@ date: "2022-12-02"
 description: "Un paio di link sulla trasformazione da social network a social media."
 summary: "Un paio di link sulla trasformazione da social network a social media."
 tags: 
-  - "onmastodon"
   - "social media"
   - "mastodon"
   - "twitter"

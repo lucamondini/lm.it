@@ -4,7 +4,6 @@ date: "2022-11-10"
 description: "Possibili conseguenze dell'affaire Musk."
 summary: "Possibili conseguenze dell'affaire Musk."
 tags: 
-  - "onmastodon"
   - "fediverso"
   - "mastodon"
   - "twitter"
