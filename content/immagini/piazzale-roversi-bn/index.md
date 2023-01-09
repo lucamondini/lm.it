@@ -5,9 +5,9 @@ categories:
   - "blog"
   - "galleria"
 tags: 
-  - "bianco-e-nero"
-  - "piazzale-roversi"
-  - "reggio-emilia"
+  - "bianco e nero"
+  - "piazzale roversi"
+  - "reggio emilia"
 ---
 
 Piazzale Roversi in bianco e nero.

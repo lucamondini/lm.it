@@ -6,7 +6,7 @@ summary: "Luca Mondini, currivulum vitae, cv, resume, project manager, digital t
 showTableOfContents: true
 ---
 
-## 📄Introduction
+## 📄 Introduction
 
 I've considerable experience in managing complex projects and teams within heterogeneous contexts and markets.
 I've been involved in traditional and agile environments where I learned to develop an open-minded and holistic approach.
