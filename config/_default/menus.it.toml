@@ -26,19 +26,24 @@
   weight = 30
 
 [[main]]
+  name = "Idee"
+  pageRef = "idee"
+  weight = 40
+
+[[main]]
   name = "µ"
   pageRef = "µ"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Tag"
   pageRef = "tags"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Etc"
   pageRef = "etc"
-  weight = 60
+  weight = 70
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
