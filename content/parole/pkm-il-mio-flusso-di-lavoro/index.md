@@ -1,9 +1,10 @@
 ---
 title: "PKM: il mio flusso di lavoro"
-date: 2023-01-12
-description: "Qualche primo ragionamento su Personal Knowledge Management (PKM) e il mio flusso di lavoro."
-summary: "Qualche primo ragionamento su Personal Knowledge Management (PKM) e il mio flusso di lavoro."
+date: 2023-01-15
+description: "Qualche primo ragionamento sul Personal Knowledge Management (PKM) e il mio flusso di lavoro."
+summary: "Qualche primo ragionamento sul Personal Knowledge Management (PKM) e il mio flusso di lavoro."
 showTableOfContents: true
+# showDate: false
 tags:
     - "pkm"
     - "note taking"
@@ -12,6 +13,11 @@ tags:
     - "hugo"
     - "blogging"
 ---
+{{< alert >}}
+Stato del post: 🗒️ [in corso](../../etc/#Stato-dei-post "In corso è lo stato di una nota ben sviluppata che comincia ad avere una propria dignità")  
+Prima versione: 3 gennaio 2023  
+Ultimo aggiornamento: 15 gennaio 2023
+{{< /alert >}}
 
 ## Introduzione
 
