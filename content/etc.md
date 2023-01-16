@@ -5,7 +5,7 @@ description: "Note, licenza, credits e altro."
 summary: "Note, licenza, credits e altro."
 ---
 ## Stato dei post
-Alcuni post posssono avere tra i metadati uno stato ben evidenziato:
+I post della sezione Idee posssono avere tra i metadati uno stato ben evidenziato:
 - 💡 **Bozza** per le idee iniziali e ancora molto grezze
 - 🗒️ **In corso** per le idee ben sviluppate che cominciano ad avere una loro dignità
 - 📕 **Completo** per i lavori ragionevolmente completi (sempre comunque modificabili in futuro)
