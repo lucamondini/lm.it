@@ -14,7 +14,7 @@ tags:
     - "blogging"
 ---
 {{< alert >}}
-Stato del post: 🗒️ [in corso](../../etc/#Stato-dei-post "In corso è lo stato di una nota ben sviluppata che comincia ad avere una propria dignità")  
+Stato: 🗒️ [in corso](../../etc/#Stato-dei-post "In corso è lo stato di una idea ben sviluppata che comincia ad avere una propria dignità")  
 Prima versione: 3 gennaio 2023  
 Ultimo aggiornamento: 15 gennaio 2023
 {{< /alert >}}
