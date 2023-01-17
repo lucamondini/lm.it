@@ -11,7 +11,7 @@ tags:
     - "raindropio"
     - "obsidian"
     - "hugo"
-    - "blogging"
+    - "blog"
 ---
 {{< alert >}}
 Stato: 🗒️ [in corso](../../etc/#Stato-dei-post "In corso è lo stato di una idea ben sviluppata che comincia ad avere una propria dignità")  

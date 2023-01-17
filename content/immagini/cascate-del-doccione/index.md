@@ -5,8 +5,8 @@ description: "Le cascate del Doccione nell'Appennino Modenese."
 summary: "Le cascate del Doccione nell'Appennino Modenese."
 tags: 
   - "appennino modenese"
-  - "cascata"
-  - "cascate deldoccione"
+  - "cascate"
+  - "cascate del doccione"
   - "fanano"
 ---
 

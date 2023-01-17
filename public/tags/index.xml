@@ -7,13 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blogging</title>
-      <link>https://www.lucamondini.it/tags/blogging/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <title>blog</title>
+      <link>https://www.lucamondini.it/tags/blog/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lucamondini.it/tags/blogging/</guid>
+      <guid>https://www.lucamondini.it/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>giardini digitali</title>
+      <link>https://www.lucamondini.it/tags/giardini-digitali/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/tags/giardini-digitali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pkm</title>
+      <link>https://www.lucamondini.it/tags/pkm/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/tags/pkm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wiki</title>
+      <link>https://www.lucamondini.it/tags/wiki/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/tags/wiki/</guid>
       <description></description>
     </item>
     
@@ -41,15 +68,6 @@
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.lucamondini.it/tags/obsidian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pkm</title>
-      <link>https://www.lucamondini.it/tags/pkm/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lucamondini.it/tags/pkm/</guid>
       <description></description>
     </item>
     
@@ -158,6 +176,33 @@
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.lucamondini.it/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>https://www.lucamondini.it/tags/art/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nerd</title>
+      <link>https://www.lucamondini.it/tags/nerd/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/tags/nerd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pixelart</title>
+      <link>https://www.lucamondini.it/tags/pixelart/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/tags/pixelart/</guid>
       <description></description>
     </item>
     
@@ -900,20 +945,11 @@
     </item>
     
     <item>
-      <title>cascata</title>
-      <link>https://www.lucamondini.it/tags/cascata/</link>
+      <title>cascate del doccione</title>
+      <link>https://www.lucamondini.it/tags/cascate-del-doccione/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lucamondini.it/tags/cascata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cascate deldoccione</title>
-      <link>https://www.lucamondini.it/tags/cascate-deldoccione/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lucamondini.it/tags/cascate-deldoccione/</guid>
+      <guid>https://www.lucamondini.it/tags/cascate-del-doccione/</guid>
       <description></description>
     </item>
     

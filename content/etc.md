@@ -5,7 +5,7 @@ description: "Note, licenza, credits e altro."
 summary: "Note, licenza, credits e altro."
 ---
 ## Stato dei post
-I post della sezione Idee posssono avere tra i metadati uno stato ben evidenziato:
+I post della sezione Idee posssono avere tra i metadati uno stato ben evidenziato, alla luce di [quanto sto imparando](../idee/di-idee-e-giardini-digitali/) sui cosiddetti "giardini digitali":
 - 💡 **Bozza** per le idee iniziali e ancora molto grezze
 - 🗒️ **In corso** per le idee ben sviluppate che cominciano ad avere una loro dignità
 - 📕 **Completo** per i lavori ragionevolmente completi (sempre comunque modificabili in futuro)
