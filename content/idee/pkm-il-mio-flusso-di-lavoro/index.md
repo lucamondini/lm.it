@@ -190,7 +190,7 @@ Poiché il codice è interamente ospitato su un [repository](https://github.com/
 
 ## Conclusione
 
-Questi appunti sono, di fatto, il primo passo del mio percorso verso il Personal Knowledge Management: mi rendo perfettamente conto che ci siano cose da rivedere e magari alcuni approcci discutibili ma ho preferito lanciarmi e sperimentare, anziché attendere di aver raggiunto la presunta perfezione (agile, anyone?).
+Questi appunti sono, di fatto, il primo passo del mio percorso verso il Personal Knowledge Management: ci sono certamente cose da rivedere e anche alcuni approcci discutibili, ma ho preferito lanciarmi e sperimentare, proprio come farebbe un [giardiniere digitale](../di-idee-e-giardini-digitali/).
 Sicuramente, tra le prime cose, proverò ad integrare nel flusso anche le note provenienti da libri, documenti PDF, podcast o video: esistono diversi plugin Obsidian adatti allo scopo ma non ho ancora avuto il tempo di testarli.
 
 Un appunto finale: tutto va comunque nella direzione di tornare in possesso dei miei contenuti, dei loro formati e degli spazi che li ospitano. L'affaire Musk - Twitter degli ultimi mesi, per quanto mi riguarda, ne ha ribadito la necessità a gran voce!

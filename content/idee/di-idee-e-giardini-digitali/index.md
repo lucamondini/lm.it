@@ -20,11 +20,11 @@ L'autore che forse per primo ne [ha formalizzato](https://hapgood.us/2015/10/17/
 
 > The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another.
 
-Si tratta quindi di un modo differente di condividere le proprie idee sul web, basata sulla connessione e il raffinamento continuo, in contrapposizione agli infiniti flussi temporali di blog e social network. 
+Si tratta, in estrema intesi, di un modo differente di organizzare e condividere le proprie idee sul web, basata sulla connessione tra i contenuti e il raffinamento continuo, in contrapposizione all'organizzazione in ordine strettamente cronologico di blog e social network.
 
 La migliore sintesi che ho trovato fino ad oggi è il [post](https://maggieappleton.com/garden-history) di Maggie Appleton che ripercorre la storia di questo concetto, tratteggiandone i sei tratti distintivi:
 
-1. Topografia (invece di flussi temporali): i giardini sono organizzati in base a relazioni contestuali e collegamenti associativi. Le date, alla base dell'organizzazione dei blog, possono esserci o meno, ma non sono la modalità principale di navigazione dei contenuti.
+1. Connessione tra i contenuti: i giardini sono organizzati in base a relazioni contestuali e collegamenti associativi. Le date, alla base dell'organizzazione dei blog, possono esserci o meno, ma non sono la modalità principale di navigazione dei contenuti.
 2. Crescita continua: i giardini digitali sono in costante evoluzione e cambiano di pari passo con il processo di apprendimento dell'autore. Al contrario, nei siti personali tradizionali, si dà enfasi esclusivamente al prodotto finito (il post).
 3. Imperfezione e pubblico apprendimento: i giardini sono imperfetti *by design*. Può sembrare controintuitivo ma in realtà abilitano la buona abitudine dei condividere ciò che si sta imparando, durante l'apprendimento stesso. Questo presuppone però che lo stato dei contenuti sia chiaro ai  lettori, per evitare fraintendimenti.
 4. Sperimentazione: i giardini sono disomogenei per natura. Si incoraggia la possibilità di sperimentare, giocando con strumenti, linguaggi e contenuti, per presentarsi al mondo in modo meno "pettinato", ma certamente più interessante e curioso.
