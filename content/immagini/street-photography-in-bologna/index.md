@@ -6,7 +6,7 @@ summary: "Street photography in Bologna."
 tags: 
   - "bianco e nero"
   - "bologna"
-  - "street photogrpahy"
+  - "street photography"
 ---
 
 Bologna, 2020

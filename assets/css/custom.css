@@ -1,3 +1,8 @@
 /* [dir=ltr] .ltr\:mr-14 {
 margin-right: 0rem;
 } */
+
+/* Change the default font
+html {
+    font-family: 'Lora';
+} */
