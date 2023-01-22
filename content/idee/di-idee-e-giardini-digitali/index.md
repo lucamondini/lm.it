@@ -38,8 +38,8 @@ La Appleton cura anche su Github [un archivio](https://github.com/MaggieAppleton
 - [x] [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) di Tom Critchlow
 - [x] [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) di Amy Hoy
 - [x] [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) di Joel Hooks
-- [ ] [You and your mind garden](https://nesslabs.com/mind-garden) di Anne-Laure Le Cunff
-- [ ] [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) di Shawn Wang
+- [x] [You and your mind garden](https://nesslabs.com/mind-garden) di Anne-Laure Le Cunff
+- [x] [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) di Shawn Wang
 - [x] [What is a digital garden?](https://www.christopherbiscardi.com/garden) di Chris Biscardi
 - [ ] [The Garden and the Stream: An IndieWeb Pop-up Session](https://indieweb.org/2020/Pop-ups/GardenAndStream)
 - [ ] [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) di Will Stedden
