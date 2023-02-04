@@ -12,7 +12,7 @@ tags:
 ---
 
 {{< alert "mastodon" >}}
-Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109440469376888061).
+Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109440469376888061)
 {{< /alert >}}
 
 Tralasciandone gli impatti sociali, di cui parliamo abbondantemente da giorni, non si può negare che la trasformazione in social media abbia determinato il successo di alcuni social network, twitter in primis.

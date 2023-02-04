@@ -10,7 +10,7 @@ tags:
 ---
 
 {{< alert "mastodon" >}}
-Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109341908900859548).
+Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109341908900859548)
 {{< /alert >}}
 
 Un numero crescente di ricerche suggerisce una similitudine tra il comportamento umano sui social media e il comportamento collettivo in natura, come quello degli stormi di uccelli: in entrambi i casi, il modo di comportarsi dei nodi è determinato dalla struttura della rete, che modella simmetricamente il modo di comportarsi dei nodi e così via, in una spirale di forte dipendenza reciproca. 

@@ -11,7 +11,7 @@ tags:
 ---
 
 {{< alert "mastodon" >}}
-Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109319796059331687).
+Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109319796059331687)
 {{< /alert >}}
 
 Interessante questo articolo, segnalato altrove da @pierg: forse l'affaire Musk ci sta facendo mettere finalmente in discussione un certo modello di rete, centralizzato e basato sull'economia dell'attenzione, per portarci verso un'architettura, federata e aperta, maggiormente affine ai principi fondanti della rete stessa. Si parla di Mastodon e di Fediverso, ma non solo.
