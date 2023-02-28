@@ -10,7 +10,7 @@ tags:
 ---
 
 {{< alert "mastodon" >}}
-Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109432829178956053).
+Pubblicato su [Mastodon](https://mastodon.uno/@lucamondini/109432829178956053)
 {{< /alert >}}
 
 ![Floor796](images/floor796.png)
