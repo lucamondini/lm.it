@@ -6,6 +6,34 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.5.3] - 2023-03-05
+
+### Added
+
+- Russian translation ([#485](https://github.com/jpanther/congo/pull/485))
+
+### Changed
+
+- Updated German translation ([#475](https://github.com/jpanther/congo/pull/475))
+- Upgrade to Chart.js v4.2.1 ([#472](https://github.com/jpanther/congo/pull/472))
+- Upgrade to Mermaid v9.4.0 ([#473](https://github.com/jpanther/congo/pull/473))
+- Upgrade to Tailwind v3.2.7 ([#491](https://github.com/jpanther/congo/pull/491))
+
+### Fixed
+
+- Caching the analytics partial prevents some advanced analytics use cases ([#480](https://github.com/jpanther/congo/issues/480))
+
+## [2.5.2] - 2023-01-24
+
+### Added
+
+- New icons for `mobile` and `phone`
+
+### Fixed
+
+- Author links containing URLs in non-hypertext schemes (ie. `tel:`) would not be created as links ([#452](https://github.com/jpanther/congo/pull/452))
+- Extra whitespace inserted after links within Markdown content ([#456](https://github.com/jpanther/congo/pull/456))
+
 ## [2.5.1] - 2023-01-20
 
 ### Changed
@@ -617,7 +645,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.5.1...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.5.3...HEAD
+[2.5.3]: https://github.com/jpanther/congo/compare/v2.5.2...v2.5.3
+[2.5.2]: https://github.com/jpanther/congo/compare/v2.5.1...v2.5.2
 [2.5.1]: https://github.com/jpanther/congo/compare/v2.5.0...v2.5.1
 [2.5.0]: https://github.com/jpanther/congo/compare/v2.4.2...v2.5.0
 [2.4.2]: https://github.com/jpanther/congo/compare/v2.4.1...v2.4.2
