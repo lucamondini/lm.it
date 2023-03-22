@@ -3,6 +3,7 @@ title: "Piacere, Luca."
 date: 2022-12-13
 description: "Luca Mondini, nerd, lettore onnivoro, viaggiatore per quanto possibile, amante del buon cibo, del design e della tipografia, tiratardi non più come una volta."
 summary: "Luca Mondini, nerd, lettore onnivoro, viaggiatore per quanto possibile, amante del buon cibo, del design e della tipografia, tiratardi non più come una volta."
+showCommentHowto: false
 ---
 Sono nato a Milano quarantaquattro anni fa.
 

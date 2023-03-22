@@ -3,6 +3,7 @@ title: "Eccetera, eccetera."
 date: 2022-12-13
 description: "Note, licenza, credits e altro."
 summary: "Note, licenza, credits e altro."
+showCommentHowto: false
 ---
 ## Stato dei post
 I post della sezione Idee posssono avere tra i metadati uno stato ben evidenziato, alla luce di [quanto sto imparando](../idee/di-idee-e-giardini-digitali/) sui cosiddetti "giardini digitali":

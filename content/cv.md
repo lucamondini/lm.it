@@ -4,6 +4,7 @@ date: 2022-12-13
 description: "Luca Mondini, currivulum vitae, cv, resume, project manager, digital transformation"
 summary: "Luca Mondini, currivulum vitae, cv, resume, project manager, digital transformation"
 showTableOfContents: true
+showCommentHowto: false
 # showDate: false
 # showDateUpdated: true
 ---

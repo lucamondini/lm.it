@@ -45,7 +45,7 @@ enableCodeCopy = true
   showReadingTime = true
   showTableOfContents = false
   showTaxonomies = true
-  showWordCount = false
+  showWordCount = true
   showComments = false
   # sharingLinks = ["mastodon", "twitter", "facebook", "linkedin", "email"]
 

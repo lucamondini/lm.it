@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deserto on Luca Mondini</title>
+    <link>https://www.lucamondini.it/tags/deserto/</link>
+    <description>Recent content in deserto on Luca Mondini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/deserto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deserto di Siloli</title>
+      <link>https://www.lucamondini.it/immagini/deserto-di-siloli/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/immagini/deserto-di-siloli/</guid>
+      <description>Nel sud della Bolivia, tra vulcani e colori.</description>
+    </item>
+    
+    <item>
+      <title>Salar de Uyuni</title>
+      <link>https://www.lucamondini.it/immagini/salar-de-uyuni/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lucamondini.it/immagini/salar-de-uyuni/</guid>
+      <description>La più grande distesa di sale del pianeta.</description>
+    </item>
+    
+  </channel>
+</rss>

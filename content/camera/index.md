@@ -3,6 +3,7 @@ title: "Camera"
 date: "2016-06-02"
 description: "La mia attrezzatura fotografica: Olympus PenF, Em1-mk2, Trip 35, obiettivi Zuiko e Laowa."
 summary: "La mia attrezzatura fotografica: Olympus PenF, Em1-mk2, Trip 35, obiettivi Zuiko e Laowa."
+showCommentHowto: false
 ---
 
 ![](images/IMG_20190803_095945-2-1024x768.jpg "La bella e la bestia")
