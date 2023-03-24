@@ -5,9 +5,34 @@
     
       <url>
             <loc>https://www.lucamondini.it/</loc>
-            <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
             <priority>0</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/parole/</loc>
+            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/parole/ambiguita-di-fondo/</loc>
+            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
     
   
     
@@ -34,6 +59,27 @@
     
   
     
+      <url>
+            <loc>https://www.lucamondini.it/%C2%B5/</loc>
+            <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/%C2%B5/abissi-d-acciaio/</loc>
+            <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -49,14 +95,6 @@
     
   
     
-      <url>
-            <loc>https://www.lucamondini.it/parole/</loc>
-            <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-            <priority>0</priority>
-          </url>
-    
-  
-    
   
     
   
@@ -67,14 +105,6 @@
           </url>
     
   
-    
-  
-    
-      <url>
-            <loc>https://www.lucamondini.it/%C2%B5/</loc>
-            <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-            <priority>0</priority>
-          </url>
     
   
     
@@ -760,6 +790,26 @@
   
     
       <url>
+            <loc>https://www.lucamondini.it/immagini/laguna-miniques/</loc>
+            <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/immagini/laguna-blanca/</loc>
+            <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
             <loc>https://www.lucamondini.it/immagini/deserto-di-siloli/</loc>
             <lastmod>2019-11-06T00:00:00+00:00</lastmod>
           </url>
@@ -771,6 +821,17 @@
       <url>
             <loc>https://www.lucamondini.it/immagini/salar-de-uyuni/</loc>
             <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/immagini/geyser-del-tatio/</loc>
+            <lastmod>2019-10-13T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -790,6 +851,23 @@
             <loc>https://www.lucamondini.it/immagini/lago-calamone/</loc>
             <lastmod>2019-09-11T00:00:00+00:00</lastmod>
           </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/immagini/marco-petacchi-artista/</loc>
+            <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
     
   
     
@@ -820,8 +898,6 @@
             <loc>https://www.lucamondini.it/parole/helvetica-now/</loc>
             <lastmod>2019-04-26T00:00:00+00:00</lastmod>
           </url>
-    
-  
     
   
     

@@ -5,6 +5,7 @@ description: "Una giornata al Labirinto della Masone, alla scoperta della vita d
 summary: "Una giornata al Labirinto della Masone, alla scoperta della vita di Franco Maria Ricci, suo creatore."
 tags: 
   - "codex seraphinianus"
+  - "libri"
   - "franco maria ricci"
   - "labirinto"
   - "labirinto della masone"
