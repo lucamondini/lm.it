@@ -10,6 +10,7 @@ tags:
   - "palazzo magnani"
   - "mattia moreni"
   - "emilio isgrò"
+  - "arte contemporanea"
 ---
 
 Questa mattina siamo usciti di casa sotto un nevischio fine e ci siamo diretti in centro a Reggio (Emilia).

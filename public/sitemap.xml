@@ -5,7 +5,15 @@
     
       <url>
             <loc>https://www.lucamondini.it/</loc>
-            <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+            <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/immagini/</loc>
+            <lastmod>2023-04-24T00:00:00+00:00</lastmod>
             <priority>0</priority>
           </url>
     
@@ -13,8 +21,34 @@
     
       <url>
             <loc>https://www.lucamondini.it/parole/</loc>
-            <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+            <lastmod>2023-04-24T00:00:00+00:00</lastmod>
             <priority>0</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/immagini/architetture-di-eindhoven/</loc>
+            <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/parole/van-abbemuseum/</loc>
+            <lastmod>2023-04-24T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -46,8 +80,6 @@
     
   
     
-  
-    
       <url>
             <loc>https://www.lucamondini.it/parole/social-dinner/</loc>
             <lastmod>2023-04-02T00:00:00+00:00</lastmod>
@@ -55,16 +87,6 @@
     
   
     
-      <url>
-            <loc>https://www.lucamondini.it/immagini/</loc>
-            <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-            <priority>0</priority>
-          </url>
-    
-  
-    
-  
-    
   
     
   
@@ -74,7 +96,7 @@
   
     
       <url>
-            <loc>https://www.lucamondini.it/immagini/per-mostre-a-milano/</loc>
+            <loc>https://www.lucamondini.it/parole/per-mostre-a-milano/</loc>
             <lastmod>2023-03-27T00:00:00+00:00</lastmod>
           </url>
     
@@ -399,6 +421,19 @@
   
     
       <url>
+            <loc>https://www.lucamondini.it/%C2%B5/ciao-ale/</loc>
+            <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
             <loc>https://www.lucamondini.it/immagini/valencia/</loc>
             <lastmod>2022-06-05T00:00:00+00:00</lastmod>
           </url>
@@ -417,6 +452,25 @@
             <loc>https://www.lucamondini.it/immagini/lubiana/</loc>
             <lastmod>2022-05-29T00:00:00+00:00</lastmod>
           </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.lucamondini.it/%C2%B5/egis/</loc>
+            <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
     
   
     
@@ -740,8 +794,6 @@
     
   
     
-  
-    
       <url>
             <loc>https://www.lucamondini.it/immagini/biblioteca-salaborsa/</loc>
             <lastmod>2020-02-29T00:00:00+00:00</lastmod>
@@ -802,8 +854,6 @@
             <loc>https://www.lucamondini.it/%C2%B5/caro-f/</loc>
             <lastmod>2020-01-18T00:00:00+00:00</lastmod>
           </url>
-    
-  
     
   
     
@@ -970,8 +1020,6 @@
             <loc>https://www.lucamondini.it/immagini/rettangoli/</loc>
             <lastmod>2019-01-31T00:00:00+00:00</lastmod>
           </url>
-    
-  
     
   
     
