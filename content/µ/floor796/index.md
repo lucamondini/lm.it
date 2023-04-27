@@ -4,7 +4,6 @@ date: "2022-11-30"
 description: "Floor796: una spettacolare animazione in pixelart."
 summary: "Floor796: una spettacolare animazione in pixelart."
 tags: 
-  - "art"
   - "pixelart"
   - "nerd"
 ---

@@ -4,7 +4,6 @@ date: "2019-05-11"
 description: "Marco, amico e tuatuatore della vecchia scuola."
 summary: "Marco, amico e tuatuatore della vecchia scuola."
 tags: 
-  - "arte"
   - "love tattoo"
   - "marco petacchi"
   - "ritratto"
