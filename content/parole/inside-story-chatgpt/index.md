@@ -1,8 +1,8 @@
 ---
 title: "The inside story of ChatGPT's astonishing potential"
 date: "2023-04-27"
-description: "Agenti generativi: una rappresentazione interattiva del comportamento umano."
-summary: "Agenti generativi: una rappresentazione interattiva del comportamento umano."
+description: "Breve sintesi dell'intervento di Greg Brockman (OpenAI) al TED 2023."
+summary: "Breve sintesi dell'intervento di Greg Brockman (OpenAI) al TED 2023."
 tags: 
   - "intelligenza artificiale"
   - "chatgpt"
