@@ -3,6 +3,8 @@ title: "The inside story of ChatGPT's astonishing potential"
 date: "2023-04-27"
 description: "Breve sintesi dell'intervento di Greg Brockman (OpenAI) al TED 2023."
 summary: "Breve sintesi dell'intervento di Greg Brockman (OpenAI) al TED 2023."
+images:
+  - thumb.png
 tags: 
   - "intelligenza artificiale"
   - "chatgpt"
