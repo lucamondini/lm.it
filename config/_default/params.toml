@@ -12,12 +12,14 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["parole", "immagini", "µ"]
+# mainSections = ["parole", "immagini", "µ"]
 # robots = ""
+fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   logo = "img/logo.png"
+  logoDark = "img/logo_dark.png"
   showTitle = true
 
 [footer]
