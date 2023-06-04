@@ -1,13 +1,16 @@
 languageCode = "it"
 languageName = "Italian"
-displayName = "IT"
-isoCode = "it"
 weight = 1
-rtl = false
 
 title = "Luca Mondini"
+
+[params]
 description = "Sito personale di Luca Mondini: nerd, fotografo wannabe, lettore onnivoro, viaggiatore per quanto possibile, amante del buon cibo, del design e della tipografia."
 copyright = "Copy, _right?_ :thinking_face:"
+
+displayName = "IT"
+isoCode = "it"
+rtl = false
 
 dateFormat = "2 January 2006"
 
