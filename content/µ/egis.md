@@ -2,7 +2,7 @@
 title: "Egis"
 date: "2022-04-25"
 description: "Due ricordi di  mio nonno Alcide e la storia del nome di mio papà."
-summary: "ue ricordi di  mio nonno Alcide e la storia del nome di mio papà."
+summary: "Due ricordi di  mio nonno Alcide e la storia del nome di mio papà."
 tags: 
   - "egis"
   - "papà"
