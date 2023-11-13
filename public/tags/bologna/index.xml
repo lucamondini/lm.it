@@ -6,33 +6,28 @@
     <description>Recent content in bologna on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/bologna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/bologna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biblioteca Salaborsa</title>
       <link>https://www.lucamondini.it/immagini/biblioteca-salaborsa/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/immagini/biblioteca-salaborsa/</guid>
       <description>Uno scatto alla biblioteca Salaborsa di Bologna.</description>
     </item>
-    
     <item>
       <title>Street photography in Bologna</title>
       <link>https://www.lucamondini.it/immagini/street-photography-in-bologna/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/immagini/street-photography-in-bologna/</guid>
       <description>Street photography in Bologna.</description>
     </item>
-    
     <item>
       <title>Rettangoli</title>
       <link>https://www.lucamondini.it/immagini/rettangoli/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/immagini/rettangoli/</guid>
       <description>Colori e geometrie alla periferia di Bologna.</description>
     </item>
-    
   </channel>
 </rss>

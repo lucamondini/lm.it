@@ -6,15 +6,14 @@
     <description>Recent content in street poetry on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/street-poetry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/street-poetry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sognasi</title>
       <link>https://www.lucamondini.it/immagini/domandasi/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/immagini/domandasi/</guid>
       <description>Zerbinasi, Remasi, Rintronasi, Fottesi, Pedalasi, Amasi, Sognasi.</description>
     </item>
-    
   </channel>
 </rss>

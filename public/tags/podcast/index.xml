@@ -6,15 +6,21 @@
     <description>Recent content in podcast on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcast e IA</title>
+      <link>https://www.lucamondini.it/parole/podcast-e-ia/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/parole/podcast-e-ia/</guid>
+      <description>Snipd, un podcast player con alcune funzioni interessanti.</description>
+    </item>
     <item>
       <title>Kult</title>
       <link>https://www.lucamondini.it/%C2%B5/kult/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/kult/</guid>
       <description>Storie dell&amp;rsquo;est a pochi passi da casa.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,33 +6,28 @@
     <description>Recent content in amicizia on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/amicizia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/amicizia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Filosofia spicciola</title>
       <link>https://www.lucamondini.it/%C2%B5/filosofia-spicciola/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/filosofia-spicciola/</guid>
       <description>Filosofia spicciola in una notte insonne.</description>
     </item>
-    
     <item>
       <title>Ciao Ale</title>
       <link>https://www.lucamondini.it/%C2%B5/ciao-ale/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/ciao-ale/</guid>
       <description>La musica e il ricordo di un amico.</description>
     </item>
-    
     <item>
       <title>Egis</title>
       <link>https://www.lucamondini.it/%C2%B5/egis/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/egis/</guid>
       <description>Due ricordi di  mio nonno Alcide e la storia del nome di mio papà.</description>
     </item>
-    
   </channel>
 </rss>

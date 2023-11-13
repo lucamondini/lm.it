@@ -6,24 +6,21 @@
     <description>Recent content in foreste casentinesi on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/foreste-casentinesi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/foreste-casentinesi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lago di Poggio Baldi</title>
       <link>https://www.lucamondini.it/immagini/lago-di-poggio-baldi/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/immagini/lago-di-poggio-baldi/</guid>
       <description>Autunno al Lago di Poggio Bladi, alle porte delle foreste casentinesi.</description>
     </item>
-    
     <item>
       <title>Foreste Casentinesi</title>
       <link>https://www.lucamondini.it/immagini/foreste-casentinesi/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/immagini/foreste-casentinesi/</guid>
       <description>Un sabato d&amp;rsquo;autunno a passeggio tra le foreste casentinesi.</description>
     </item>
-    
   </channel>
 </rss>

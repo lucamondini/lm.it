@@ -6,51 +6,63 @@
     <description>Recent content in intelligenza artificiale on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/intelligenza-artificiale/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/intelligenza-artificiale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App invisibili</title>
+      <link>https://www.lucamondini.it/parole/app-invisibili/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/parole/app-invisibili/</guid>
+      <description>Le app diventano di fatto invisibili, l&amp;rsquo;interazione attraverso il linguaggio l&amp;rsquo;unica cosa che rimane.</description>
+    </item>
+    <item>
+      <title>Podcast e IA</title>
+      <link>https://www.lucamondini.it/parole/podcast-e-ia/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/parole/podcast-e-ia/</guid>
+      <description>Snipd, un podcast player con alcune funzioni interessanti.</description>
+    </item>
+    <item>
+      <title>IA e (dis)informazione</title>
+      <link>https://www.lucamondini.it/parole/ia-e-disinformazione/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/parole/ia-e-disinformazione/</guid>
+      <description>L&amp;rsquo;intervento di Carola Frediani e Vincenzo Tiani al Festival internazionale del giornalismo 2023.</description>
+    </item>
     <item>
       <title>Le regole dell&#39;hype</title>
       <link>https://www.lucamondini.it/%C2%B5/ai-hype/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/ai-hype/</guid>
       <description>Come valutare correttamente l&amp;rsquo;hype intorno all&amp;rsquo;intelligenza artificiale.</description>
     </item>
-    
     <item>
       <title>The disappearing computer</title>
       <link>https://www.lucamondini.it/parole/the-disappearing-computer/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/the-disappearing-computer/</guid>
       <description>Ci stiamo preparando all&amp;rsquo;era post smartphone?</description>
     </item>
-    
     <item>
       <title>The inside story of ChatGPT&#39;s astonishing potential</title>
       <link>https://www.lucamondini.it/parole/inside-story-chatgpt/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/inside-story-chatgpt/</guid>
       <description>Breve sintesi dell&amp;rsquo;intervento di Greg Brockman (OpenAI) al TED 2023.</description>
     </item>
-    
     <item>
       <title>Agenti generativi</title>
       <link>https://www.lucamondini.it/parole/agenti-generativi/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/agenti-generativi/</guid>
       <description>Agenti generativi: una rappresentazione interattiva del comportamento umano.</description>
     </item>
-    
     <item>
       <title>Ambiguità di fondo</title>
       <link>https://www.lucamondini.it/parole/ambiguita-di-fondo/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/ambiguita-di-fondo/</guid>
       <description>Antropomorfismo, ovvero l&amp;rsquo;ambiguità di fondo su cui poggia l&amp;rsquo;intelligenza artificiale.</description>
     </item>
-    
   </channel>
 </rss>

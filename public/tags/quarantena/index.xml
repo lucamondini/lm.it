@@ -6,24 +6,21 @@
     <description>Recent content in quarantena on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/quarantena/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/quarantena/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosa ricorderò di questo periodo</title>
       <link>https://www.lucamondini.it/parole/cosa-ricordero-di-questo-periodo/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/cosa-ricordero-di-questo-periodo/</guid>
       <description>Elenco, casuale e in divenire, di persone, articoli, momenti della pandemia che vale la pena tracciare a futura memoria.</description>
     </item>
-    
     <item>
       <title>Pensieri sparsi</title>
       <link>https://www.lucamondini.it/parole/pensieri-sparsi/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/pensieri-sparsi/</guid>
       <description>Qualche pensiero sparso raccolto durante i primi giorni di lockdown.</description>
     </item>
-    
   </channel>
 </rss>

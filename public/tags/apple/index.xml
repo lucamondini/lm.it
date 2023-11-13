@@ -6,24 +6,21 @@
     <description>Recent content in apple on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nella gabbia dorata</title>
       <link>https://www.lucamondini.it/parole/nella-gabbia-dorata/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/nella-gabbia-dorata/</guid>
       <description>Dopo anni con Android e Windows, mi ritrovo immerso nell&amp;rsquo;ecosistema Apple. Alcune prime considerazioni.</description>
     </item>
-    
     <item>
       <title>Minimal iOS Home Screen</title>
       <link>https://www.lucamondini.it/%C2%B5/home-screen/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/home-screen/</guid>
       <description>Teniamo puliti i nostri Home Screen 😛.</description>
     </item>
-    
   </channel>
 </rss>

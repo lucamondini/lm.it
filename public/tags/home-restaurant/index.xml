@@ -6,15 +6,14 @@
     <description>Recent content in home restaurant on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/home-restaurant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/home-restaurant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social dinner</title>
       <link>https://www.lucamondini.it/parole/social-dinner/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/parole/social-dinner/</guid>
       <description>Una sera a cena con sconosciuti a casa dello chef Giancarlo Destro.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,33 +6,28 @@
     <description>Recent content in mastodon on Luca Mondini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lucamondini.it/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social something</title>
       <link>https://www.lucamondini.it/%C2%B5/social-something/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/social-something/</guid>
       <description>Un paio di link sulla trasformazione da social network a social media.</description>
     </item>
-    
     <item>
       <title>Stormi social</title>
       <link>https://www.lucamondini.it/%C2%B5/stormi-social/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/stormi-social/</guid>
       <description>Ennesimo thread di spunti sul tema evoluzione delle reti sociali.</description>
     </item>
-    
     <item>
       <title>The net is us</title>
       <link>https://www.lucamondini.it/%C2%B5/the-net-is-us/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.lucamondini.it/%C2%B5/the-net-is-us/</guid>
       <description>Possibili conseguenze dell&amp;rsquo;affaire Musk.</description>
     </item>
-    
   </channel>
 </rss>
