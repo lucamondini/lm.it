@@ -3,7 +3,7 @@ title: "Di idee e giardini digitali"
 date: 2023-01-16
 description: "I giardini digitali e una differente modalità di condividere le proprie idee sul web."
 summary: "I giardini digitali e una differente modalità di condividere le proprie idee sul web."
-showTableOfContents: true
+# showTableOfContents: true
 tags: ["pkm", "blog", "giardini digitali", "wiki"]
 ---
 {{< alert >}}
