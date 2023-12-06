@@ -3,7 +3,7 @@ title: "PKM: il mio flusso di lavoro"
 date: 2023-01-15
 description: "Qualche ragionamento sul Personal Knowledge Management (PKM) e il mio flusso di lavoro."
 summary: "Qualche ragionamento sul Personal Knowledge Management (PKM) e il mio flusso di lavoro."
-# showTableOfContents: true
+showTableOfContents: true
 # showDate: false
 tags:
     - "pkm"

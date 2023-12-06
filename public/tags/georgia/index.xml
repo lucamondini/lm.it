@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>georgia on Luca Mondini</title>
+    <link>https://www.lucamondini.it/tags/georgia/</link>
+    <description>Recent content in georgia on Luca Mondini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/georgia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reunion georgiana #2</title>
+      <link>https://www.lucamondini.it/%C2%B5/reunion/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/%C2%B5/reunion/</guid>
+      <description>La seconda reunion con i compagni di viaggio della Georgia.</description>
+    </item>
+  </channel>
+</rss>

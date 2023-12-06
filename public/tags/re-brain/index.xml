@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>re-brain on Luca Mondini</title>
+    <link>https://www.lucamondini.it/tags/re-brain/</link>
+    <description>Recent content in re-brain on Luca Mondini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/re-brain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ottobre</title>
+      <link>https://www.lucamondini.it/%C2%B5/ottobre/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/%C2%B5/ottobre/</guid>
+      <description>Un mese intenso questo Ottobre.</description>
+    </item>
+  </channel>
+</rss>
