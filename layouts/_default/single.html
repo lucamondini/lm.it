@@ -20,13 +20,16 @@
             {{ if eq .MediaType.SubType "svg" }}
               src="{{ .RelPermalink }}"
             {{ else }}
+              width="{{ .Width }}"
+              height="{{ .Height }}"
               {{ if lt .Width 660 }}
                 src="{{ .RelPermalink }}"
               {{ else }}
-                srcset=" {{ (.Resize "330x").RelPermalink }} 330w,
-                {{ (.Resize "660x").RelPermalink }} 660w, {{ (.Resize "1024x").RelPermalink }}
-                1024w, {{ (.Resize "1320x").RelPermalink }} 2x"
-                src="{{ (.Resize "660x").RelPermalink }}"
+                srcset="
+                {{- (.Resize "330x").RelPermalink }} 330w,
+                {{- (.Resize "660x").RelPermalink }} 660w,
+                {{- (.Resize "1024x").RelPermalink }} 1024w,
+                {{- (.Resize "1320x").RelPermalink }} 2x"
               {{ end }}
             {{ end }}
             alt="{{ $.Params.featureAlt | default $.Params.coverAlt | default "" }}"
@@ -39,14 +42,15 @@
     </header>
     <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
       {{ if and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in .TableOfContents "<ul") }}
-        <div class="order-first px-0 lg:order-last lg:max-w-xs ltr:lg:pl-8 rtl:lg:pr-8">
-          <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-10">
+        <div class="order-first px-0 lg:order-last lg:max-w-xs lg:ps-8">
+          <div class="toc pe-5 print:hidden lg:sticky lg:top-10">
             {{ partial "toc.html" . }}
           </div>
         </div>
       {{ end }}
       <div class="min-w-0 min-h-0 max-w-prose grow">
         {{ .Content | emojify }}
+        <!-- Inizio inserimento disclaimer commenti -->
         {{ if .Params.showCommentHowto | default (.Site.Params.article.showCommentHowto | default true) }}
           {{ if templates.Exists "partials/extend-article.html" }}
             {{ partial "extend-article.html" . }}
@@ -54,7 +58,8 @@
             {{ warnf "[CONGO] Comment Howto is enabled for %s but no extend-article partial exists." .File.Path }}
           {{ end }}
        {{ end }}
-      </div>    
+       <!-- Fine inserimento disclaimer commenti -->
+      </div>
     </section>
     <footer class="pt-8 max-w-prose print:hidden">
       {{ partial "author.html" . }}
