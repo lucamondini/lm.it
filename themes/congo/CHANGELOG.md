@@ -6,6 +6,36 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- Quicklink support ([#646](https://github.com/jpanther/congo/pull/646))
+- Automatic support for WebP images ([#693](https://github.com/jpanther/congo/pull/693))
+- Warning when building if links to Markdown files cannot be resolved ([#691](https://github.com/jpanther/congo/pull/691))
+- Ability to share articles to Telegram and Line ([#719](https://github.com/jpanther/congo/pull/719))
+- New icons for `line`, `google-scholar`, `mendeley` and `weibo` ([#719](https://github.com/jpanther/congo/pull/719), [#755](https://github.com/jpanther/congo/pull/755), [#756](https://github.com/jpanther/congo/pull/756))
+- Weibo sharing links ([#756](https://github.com/jpanther/congo/pull/756))
+- Support for Tailwind '950' colour variants ([#751](https://github.com/jpanther/congo/pull/751))
+- Table of contents will now scroll if taller than the browser height ([#733](https://github.com/jpanther/congo/pull/733))
+- Korean translation ([#731](https://github.com/jpanther/congo/pull/731))
+
+### Changed
+
+- ⚠️ Hugo extended version is now required when building sites
+- ⚠️ Author params block in language configuration has been moved to `params.author` ([#704](https://github.com/jpanther/congo/pull/704))
+- Refactored image logic into a new `picture.html` partial ([#693](https://github.com/jpanther/congo/pull/693))
+- Upgrade to ChartJS v4.4.1 ([#736](https://github.com/jpanther/congo/pull/736))
+- Upgrade to Tailwind v3.4.0 ([#737](https://github.com/jpanther/congo/pull/737), [#752](https://github.com/jpanther/congo/pull/752), [#759](https://github.com/jpanther/congo/pull/759))
+- Updated Japanese translation ([#750](https://github.com/jpanther/congo/pull/750))
+
+### Fixed
+
+- Hamburger menu is not dismissed when links are clicked ([#705](https://github.com/jpanther/congo/pull/705))
+- KaTeX, table and code elements wider than the page are not formatted correctly ([#753](https://github.com/jpanther/congo/pull/753))
+
+### Removed
+
+- Fathom Analytics custom domain parameter, as this is no longer supported by Fathom
+
 ## [2.7.6] - 2023-11-26
 
 ### Fixed
