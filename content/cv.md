@@ -11,14 +11,15 @@ showCommentHowto: false
 
 ## 📄 Introduction
 
-I've considerable experience in managing complex projects and teams within heterogeneous contexts and markets.
-I've been involved in traditional and agile environments where I learned to develop an open-minded and holistic approach.
-I love to help companies to redesign their processes and services, taking advantage of new technologies.
+With extensive experience in managing complex projects and leading diverse teams across various markets, I have honed a skill set that thrives in both traditional and agile environments. This journey has fostered an open-minded, holistic approach to problem-solving and innovation.
 
-After the last four years in the PM Department of E80 Group, deeply involved in several projects all around the world, I'm now working as Digital Transformation Specialist, supporting the company in defining its new Digital Transformation strategy.
-I've a technical background in Computer Science but I've learned to fully identify and achieve the desired business goals.
+I am enthusiastic about helping companies reimagine their processes and services, leveraging the latest technologies to drive innovation and efficiency.
 
-I'm always passionate about challenging my knowledge and learning new stuff.
+Currently, I work as a Digital Transformation Specialist, following a four-year tenure in the Project Management Department at E80 Group, where I spearheaded numerous global projects. In my current role, I am at the forefront of defining our company's new digital transformation strategy.
+
+My primary focus is on leveraging artificial intelligence to enhance knowledge management. Within this domain, I am spearheading the adoption of Generative AI, ensuring a balanced emphasis on technology, processes, and —most importantly— people.
+
+With a technical background in Computer Science and certification as a PMP Project Manager, I excel at identifying and achieving strategic business objectives. I am dedicated to continuous learning and relish the opportunity to challenge and expand my expertise.
 
 ## 💼 Last experiences
 

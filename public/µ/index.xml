@@ -4,11 +4,32 @@
     <title>Luca Mondini</title>
     <link>https://www.lucamondini.it/%C2%B5/</link>
     <description>Recent content on Luca Mondini</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>it</language>
     <copyright>2024 - Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.lucamondini.it/%C2%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RSS is back</title>
+      <link>https://www.lucamondini.it/%C2%B5/rss/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/%C2%B5/rss/</guid>
+      <description>Corsi e ricorsi.</description>
+    </item>
+    <item>
+      <title>Monument Valley</title>
+      <link>https://www.lucamondini.it/%C2%B5/monument-valley/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/%C2%B5/monument-valley/</guid>
+      <description>Dieci anni fa usciva un capolavoro.</description>
+    </item>
+    <item>
+      <title>La mia prima mezza maratona</title>
+      <link>https://www.lucamondini.it/%C2%B5/prima-mezza-maratona/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/%C2%B5/prima-mezza-maratona/</guid>
+      <description>Che emozione la prima mezza.</description>
+    </item>
     <item>
       <title>Deadline</title>
       <link>https://www.lucamondini.it/%C2%B5/deadline/</link>

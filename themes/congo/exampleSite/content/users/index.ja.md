@@ -72,5 +72,10 @@ Congoを使用して構築された実際のウェブサイト。
 | [aminelch.github.io](https://aminelch.github.io)                       | Personal Site and Blog          |
 | [robertboscacci.com](https://robertboscacci.com)                       | Personal Site and Blog          |
 | [gorbe.io](https://www.gorbe.io)                                       | Business Site and Blog          |
+| [techwolf12.nl](https://techwolf12.nl)                                 | Personal Site and Tech Blog     |
+| [kylecapehart.com](https://kylecapehart.com/)                          | Personal Site and Blog          |
+| [hosni.info](https://hosni.info/)                                      | Personal site and Tech Blog     |
+| [mattstrayer.com](https://www.mattstrayer.com/)                        | Personal Site and Blog          |
+| [noamlerner.com](https://www.noamlerner.com/)                          | Personal blog (English/Hebrew)  |
 
 **Congoを使っていますか？** あなたのウェブサイトを加えるために[Pull Request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md)を投げてください。
