@@ -16,7 +16,7 @@ copyright = "2024 - Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Luca Mondini"
-  image = "img/author.jpg"
+  image = "img/lm2024.png"
   headline = "Nerd, but nice."
   bio = "Nerd, fotografo wannabe, lettore onnivoro, viaggiatore per quanto possibile, amante del buon cibo, del design e della tipografia."
   links = [
