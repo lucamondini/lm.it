@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>intelligenza artificiale on Luca Mondini</title>
+    <title>Intelligenza Artificiale on Luca Mondini</title>
     <link>https://www.lucamondini.it/tags/intelligenza-artificiale/</link>
-    <description>Recent content in intelligenza artificiale on Luca Mondini</description>
+    <description>Recent content in Intelligenza Artificiale on Luca Mondini</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <copyright>2024 - Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <copyright>2025 - Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.lucamondini.it/tags/intelligenza-artificiale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM e memoria</title>
+      <link>https://www.lucamondini.it/parole/llm-e-memoria/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/parole/llm-e-memoria/</guid>
+      <description>Chi segue la serie Severance di Apple TV+ conosce bene l&amp;rsquo;affascinante e inquietante tema della separazione tra memoria personale e professionale.</description>
+    </item>
     <item>
       <title>LLM Open Source? Dipende</title>
       <link>https://www.lucamondini.it/parole/open-source-ai-models/</link>

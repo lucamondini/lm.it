@@ -46,6 +46,7 @@ Congo は[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポ�
 | instagram            | {{< icon instagram >}}            |
 | keybase              | {{< icon keybase >}}              |
 | kickstarter          | {{< icon kickstarter >}}          |
+| kofi                 | {{< icon kofi >}}                 |
 | lastfm               | {{< icon lastfm >}}               |
 | lightbulb            | {{< icon lightbulb >}}            |
 | line                 | {{< icon line >}}                 |

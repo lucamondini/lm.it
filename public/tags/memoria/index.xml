@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memoria on Luca Mondini</title>
+    <link>https://www.lucamondini.it/tags/memoria/</link>
+    <description>Recent content in Memoria on Luca Mondini</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <copyright>2025 - Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lucamondini.it/tags/memoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM e memoria</title>
+      <link>https://www.lucamondini.it/parole/llm-e-memoria/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.lucamondini.it/parole/llm-e-memoria/</guid>
+      <description>Chi segue la serie Severance di Apple TV+ conosce bene l&amp;rsquo;affascinante e inquietante tema della separazione tra memoria personale e professionale.</description>
+    </item>
+  </channel>
+</rss>

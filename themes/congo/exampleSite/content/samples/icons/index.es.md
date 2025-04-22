@@ -46,6 +46,7 @@ La lista completa de íconos incorporados y sus nombres correspondientes se pued
 | instagram            | {{< icon instagram >}}            |
 | keybase              | {{< icon keybase >}}              |
 | kickstarter          | {{< icon kickstarter >}}          |
+| kofi                 | {{< icon kofi >}}                 |
 | lastfm               | {{< icon lastfm >}}               |
 | lightbulb            | {{< icon lightbulb >}}            |
 | line                 | {{< icon line >}}                 |

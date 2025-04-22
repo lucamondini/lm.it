@@ -11,24 +11,37 @@ showCommentHowto: false
 
 ## 📄 Introduction
 
-With extensive experience in managing complex projects and leading diverse teams across various markets, I have honed a skill set that thrives in both traditional and agile environments. This journey has fostered an open-minded, holistic approach to problem-solving and innovation.
+With a strong foundation in Project Management and years of experience leading complex, cross-functional initiatives, I specialize in guiding organizations through their digital evolution with a pragmatic yet visionary mindset.
 
-I am enthusiastic about helping companies reimagine their processes and services, leveraging the latest technologies to drive innovation and efficiency.
+Currently, I serve as Digital Transformation Manager at E80 Group, where I drive our corporate strategy for digital innovation. My mission is to align technology with business priorities—ensuring that AI, automation, and knowledge management become powerful levers for value creation and operational excellence.
 
-Currently, I work as a Digital Transformation Specialist, following a four-year tenure in the Project Management Department at E80 Group, where I spearheaded numerous global projects. In my current role, I am at the forefront of defining our company's new digital transformation strategy.
+A key focus of my work is the adoption of Generative AI, not as a mere tool, but as a catalyst for transforming how knowledge is created, shared, and applied across the organization. I work at the intersection of technology, process design, and human-centric change, championing solutions that are impactful, ethical, and scalable.
 
-My primary focus is on leveraging artificial intelligence to enhance knowledge management. Within this domain, I am spearheading the adoption of Generative AI, ensuring a balanced emphasis on technology, processes, and —most importantly— people.
+Previously, I spent four years in the Project Management Department, leading global initiatives and building the multidisciplinary skills that now inform my strategic vision.
 
-With a technical background in Computer Science and certification as a PMP Project Manager, I excel at identifying and achieving strategic business objectives. I am dedicated to continuous learning and relish the opportunity to challenge and expand my expertise.
+With a background in Computer Science and PMP® certification, I bring both analytical rigor and organizational sensitivity to every challenge. I thrive in environments that value curiosity, experimentation, and continuous learning, and I believe that digital transformation is ultimately a human journey.
 
 ## 💼 Last experiences
 
 ### E80 Group S.p.A.
 
-DIGITAL TRANSFORMATION SPECIALIST  
-(Reggio Emilia, April 2022 – Present)
+DIGITAL TRANSFORMATION MANAGER  
+(Reggio Emilia, April 2025 – Present)
 
-E80 Group, born from the merge of Elettric80 and Bema, is one of the most innovative companies in the Industrial Automation market.
+E80 Group, formed from the merger of Elettric80 and Bema, stands at the forefront of innovation in the Industrial Automation sector.
+
+As Digital Transformation Manager, I lead strategic initiatives to evolve our organization through innovation, focusing on tangible business outcomes and cross-functional alignment. My mission is to ensure that digital technologies — particularly in the fields of Artificial Intelligence and Knowledge Management — drive measurable value across the enterprise.
+
+Key responsibilities include:
+
+- Defining and steering the Digital Transformation strategy, ensuring alignment with business goals and internal client needs.
+- Leading the scouting, evaluation, and adoption of emerging technologies, with a strong focus on AI-driven solutions and collaborative intelligence platforms.
+- Coordinating cross-departmental projects and programs, balancing innovation with operational excellence, risk management, and change enablement.
+- Coaching internal teams and fostering a culture of digital awareness, empowering people to embrace new tools and mindsets.
+- Reporting to C-level stakeholders, I translate technical opportunities into strategic narratives that support decision-making and investment prioritization.
+
+DIGITAL TRANSFORMATION SPECIALIST  
+(Reggio Emilia, April 2022 – March 2025)
 
 My role is to support the company in defining and managing its new Digital Transformation strategy:
 - Scouting and selecting new technologies on the market, especially in the Artificial Intelligence and Digital Knowledge Management area

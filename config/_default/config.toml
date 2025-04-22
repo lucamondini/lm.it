@@ -8,8 +8,10 @@ defaultContentLanguage = "it"
 languageCode = "it"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
+
+[pagination]
+  pagerSize = 10
 
 capitalizeListTitles = false
 
